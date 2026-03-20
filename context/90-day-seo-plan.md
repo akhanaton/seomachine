@@ -108,7 +108,7 @@ Keep URLs lowercase, hyphen-separated, no stop words, under 60 characters. Avoid
 
 **Exampilot's Initial Focus:** Cambridge 9709 and Edexcel IAL Pure Maths.
 
-This focused launch strategy is significantly stronger than broad GCSE coverage. Your primary competitors (PapaCambridge, Save My Exams, Physics & Maths Tutor) are static PDF repositories with no adaptive AI practice — exactly where Exampilot differentiates. The international A-Level audience (UAE, Pakistan, Malaysia, Singapore, Nigeria) is underserved by UK-centric tools.
+This focused launch strategy is significantly stronger than broad GCSE coverage. Your primary competitors (PapaCambridge, Save My Exams, Physics & Maths Tutor) are static PDF repositories with no adaptive AI practice — exactly where Exampilot differentiates. The international A-Level audience (EU, UAE, Pakistan, Malaysia, Singapore, Nigeria) is underserved by UK-centric tools.
 
 #### Step 1 — Map the taxonomy (Cambridge 9709 & Edexcel IAL specific)
 

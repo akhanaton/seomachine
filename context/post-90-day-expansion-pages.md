@@ -40,6 +40,7 @@ Pages targeting people who are already looking for a solution but are dissatisfi
 /alternatives/save-my-exams/
 /alternatives/physics-maths-tutor/
 /alternatives/papacambridge/
+/best/free-a-level-maths-practice-tools/
 /best/a-level-maths-revision-apps/
 /best/cambridge-9709-resources/
 ```

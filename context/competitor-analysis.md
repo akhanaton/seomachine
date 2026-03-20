@@ -44,7 +44,7 @@
 
 1. **Predicted grades**: Nobody offers AI-predicted grades for A-Level Maths
 2. **Cambridge 9709 specific content**: Massively underserved by UK-centric tools
-3. **International student focus**: UAE, Pakistan, Malaysia, Singapore, Nigeria — underserved by all competitors
+3. **International student focus**: EU, UAE, Pakistan, Malaysia, Singapore, Nigeria — underserved by all competitors
 4. **AI tutoring**: No competitor offers Socratic AI tutoring in-session
 5. **Spaced repetition for A-Level Maths**: Nobody combines SRS with exam-specific content
 6. **Comparison content**: "ExamPilot vs Save My Exams" — high-intent, low-competition keywords

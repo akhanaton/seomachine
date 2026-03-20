@@ -9,7 +9,7 @@ This document defines the ExamPilot brand voice, tone, and messaging framework. 
 - **How it sounds**: Direct, assured, practical. No hedging. We say "here's what to do" not "you might want to consider."
 - **Example**: "Integration isn't hard — it's just poorly taught. Here's the approach that actually clicks."
 - **Avoid**: Academic language, condescension, false modesty ("we think maybe this could help"), wishy-washy advice that doesn't commit to a position.
-- **Cultural note**: Our students span the UK, UAE, Pakistan, Malaysia, Singapore, Nigeria, and beyond. Confidence translates universally — but arrogance doesn't. Be assertive without being culturally insensitive. Avoid UK-centric slang or assumptions about school systems.
+- **Cultural note**: Our students span the UK, EU, UAE, Pakistan, Malaysia, Singapore, Nigeria, and beyond. Confidence translates universally — but arrogance doesn't. Be assertive without being culturally insensitive. Avoid UK-centric slang or assumptions about school systems.
 
 ### 2. Relentlessly Practical
 - **What it means**: Every sentence earns its place by being useful. We don't write to fill space — we write to move someone closer to exam readiness. If a paragraph doesn't help a student study better, cut it.
@@ -158,7 +158,7 @@ Imagine a sharp, slightly older student who absolutely nailed their A-Levels and
 **Primary Audience**: A-Level Maths Students (16-18)
 - Taking Cambridge 9709 or Edexcel IAL Pure Mathematics
 - Mix of first-time and resitting students
-- Geographically dispersed: UK, UAE, Pakistan, Malaysia, Singapore, Nigeria, and other CIE centres worldwide
+- Geographically dispersed: UK,EU, UAE, Pakistan, Malaysia, Singapore, Nigeria, and other CIE centres worldwide
 - Many study in English as a second language
 - High stakes: university offers often conditional on maths grades
 - Time-poor: balancing multiple A-Level subjects
