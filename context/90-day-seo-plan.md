@@ -63,30 +63,31 @@ exampilot.com/blog/                               → Blog (topical authority co
 
 Keep URLs lowercase, hyphen-separated, no stop words, under 60 characters. Avoid including dates in URLs — exam prep content should appear evergreen.
 
-### GSC & GA4 Setup
+### GSC & PostHog Setup
 
 #### Google Search Console
 
 * Verify via DNS TXT record (most reliable method)
 * Submit XML sitemap immediately
 * Set up email alerts for manual actions, crawl errors, and security issues
-* Connect to GA4 under "Links" section
+* Keep GSC data separate (PostHog doesn't have native GSC integration like GA4, but you can correlate data manually or via API)
 * Enable the URL Inspection API for programmatic indexing checks later (Section 7)
 
-#### Google Analytics 4
+#### PostHog
 
-* Enable Enhanced Measurement (scroll depth, outbound clicks, file downloads, video engagement)
+* Enable autocapture for automatic tracking of clicks, page views, and form submissions
 * Create custom events: trial_signup, subject_selected, practice_test_started, question_answered
-* Set up Audiences for remarketing: visited_gcse_maths, started_trial, abandoned_signup
-* Connect to Google Search Console for blended organic data in GA4 reports
-* Install the GA4 DebugView extension during setup to validate event firing
+* Set up cohorts for user segmentation: visited_gcse_maths, started_trial, abandoned_signup
+* Configure session recordings to watch how students interact with exam prep content (invaluable for UX optimization)
+* Enable feature flags for A/B testing different CTAs and content formats
+* Use PostHog's built-in event validation tools to verify event firing during setup
 
 ### Budget Tool Stack ($250/month)
 
 | Tool | Monthly Cost | Role |
 |------|--------------|------|
 | Google Search Console | Free | Indexing, ranking data, crawl errors, Core Web Vitals monitoring |
-| Google Analytics 4 | Free | Traffic, conversions, user behavior, funnel analysis |
+| PostHog | Free (up to 1M events/month) | Product analytics, event tracking, session recordings, funnel analysis, feature flags, A/B testing |
 | Mangools Suite (KWFinder + SERPWatcher + LinkMiner) | $29 | Keyword research, rank tracking (up to 200 keywords), competitor backlink analysis |
 | Screaming Frog SEO Spider | Free (up to 500 URLs) | Technical site audit, crawl analysis, internal link mapping |
 | RankMath Pro (if WordPress) or Schema Pro | $6–$8 | Schema markup automation, sitemap, robots.txt management |
@@ -531,8 +532,8 @@ Quora is underrated in 2026 for EdTech: Quora answers rank in Google for long-ta
 #### One-time setup tasks:
 
 * Technical SEO audit and fix (schema, CWV, robots.txt, sitemap)
-* GSC + GA4 configured and verified
-* All tool accounts created (Mangools, Screaming Frog, Featured.com, Ahrefs Webmaster Tools)
+* GSC + PostHog configured and verified
+* All tool accounts created (Mangools, Screaming Frog, Featured.com, Ahrefs Webmaster Tools, PostHog)
 * **Keyword taxonomy spreadsheet built for Cambridge 9709 (P1, P3) and Edexcel IAL (Pure 1, Pure 2)**
 * **Topic cluster map built: Cambridge 9709 Pure 1 cluster first (your deepest content moat)**
 * Author bio pages created with mathematical credentials (E-E-A-T: qualified maths teacher, Cambridge/Edexcel examiner, or subject specialist)
@@ -573,7 +574,7 @@ Quora is underrated in 2026 for EdTech: Quora answers rank in Google for long-ta
 * 40+ pages indexed
 * First keyword in top 20 (likely a branded or very long-tail term)
 * 5–10 referring domains
-* First organic sessions from non-brand keywords in GA4
+* First organic sessions from non-brand keywords in PostHog
 
 ### Sprint 3 — Days 61–90: Scale & Compound
 
