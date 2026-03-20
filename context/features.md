@@ -1,253 +1,96 @@
-# [YOUR COMPANY] Features & Benefits
+# ExamPilot Features & Benefits
 
-<!-- INSTRUCTIONS: This document outlines your key features, benefits, and differentiators.
-     Use this to inform content creation that drives conversions and customer acquisition.
-     Fill in all [BRACKETED] sections with your specific information.
-     Delete these instruction comments when done.
-     See examples/castos/ for a complete real-world example. -->
+## Product Overview
 
-This document outlines [YOUR COMPANY]'s key features, benefits, and differentiators to inform content creation that drives trial conversions and customer acquisition.
+ExamPilot is an AI-powered exam readiness platform for A-Level Mathematics students. It tells students exactly where they stand, what they need to work on, and guides them to their target grade through adaptive practice, AI tutoring, and spaced repetition.
 
-## Core Value Propositions
+**Tagline**: Know exactly where you stand and what to do next to improve your predicted grade.
 
-<!-- INSTRUCTIONS: List 5-10 of your most important features/benefits.
-     For each one, include:
-     - Feature: What it is (technical description)
-     - Benefit: Why it matters (user outcome)
-     - Conversion Angle: How to pitch it (marketing copy)
--->
+**URL**: https://www.exampilot.io
 
-### 1. **[FEATURE NAME]**
-- **Feature**: [Technical description of what this feature does]
-- **Benefit**: [The outcome or value this provides to users]
-- **Conversion Angle**: "[One-sentence pitch that makes someone want to sign up]"
+## Exam Board Support
 
-### 2. **[FEATURE NAME]**
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+| Exam Board | Qualification | Spec Code | Status |
+|---|---|---|---|
+| Cambridge International | A-Level Mathematics | 9709 | Launch focus (80%) |
+| Pearson Edexcel | International A-Level Pure Mathematics | WMA11/WMA12 | Launch focus (20%) |
 
-### 3. **[FEATURE NAME]**
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+Future expansion: GCSE Maths, Additional Maths, Statistics, Mechanics, other A-Level subjects.
 
-### 4. **[FEATURE NAME]**
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+## Core Features
 
-### 5. **[FEATURE NAME]**
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### Exam Readiness Index (ERI)
+**What it does**: Generates a predictive grade (A*-U) based on your actual performance data — not a quiz score, but a statistically modelled prediction of your exam outcome.
+**Why it matters**: Students stop guessing and start knowing. Conditional university offers require specific grades — ERI tells you if you're on track.
+**Differentiator**: No other A-Level tool provides a continuously-updated predicted grade based on adaptive assessment.
 
-### 6. **[FEATURE NAME]** (Optional)
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### Question Bank
+**What it does**: Browse and practice questions by topic, difficulty, and exam board. Every question mapped to the syllabus.
+**Why it matters**: Targeted practice on exactly what you need — not random questions from a generic pool.
+**Differentiator**: Questions tagged with Question DNA — the underlying reasoning patterns, not just topic labels.
 
-### 7. **[FEATURE NAME]** (Optional)
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### Module Tests
+**What it does**: Structured tests covering specific syllabus modules (e.g., Pure 1, Pure 2).
+**Why it matters**: Simulates real exam conditions for specific papers.
+**Differentiator**: Adaptive difficulty based on your proficiency level.
 
-### 8. **[FEATURE NAME]** (Optional)
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### ExamLens (Mock Exams)
+**What it does**: Generates predictive timed mock papers that mirror real A-Level exam conditions.
+**Why it matters**: The closest thing to sitting the real exam. Timed, formatted correctly, difficulty-calibrated.
+**Differentiator**: Questions selected based on your specific knowledge gaps — not random sampling.
 
-## Technical Features
+### Ask Sparky (AI Tutor)
+**What it does**: Socratic AI tutor available during practice sessions. Never gives the answer — asks guiding questions until you reach understanding.
+**Why it matters**: 24/7 help for international students who can't access teachers outside school hours.
+**Differentiator**: Socratic method (not answer-giving), context-aware (knows the specific question you're working on), costs 1 Sparx credit per use.
 
-<!-- INSTRUCTIONS: Group your technical features into logical categories.
-     Use bullet points for quick reference. -->
+### Smart Review (Spaced Repetition)
+**What it does**: FSRS-powered system that resurfaces content at optimal intervals to prevent forgetting.
+**Why it matters**: Cramming doesn't work. Smart Review ensures long-term retention of concepts.
+**Differentiator**: Integrated into the learning flow (not a separate flashcard app). Tracks forget risk, memory debt, and stability momentum.
 
-### [CATEGORY NAME - e.g., "Hosting & Distribution"]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
+### Dashboard
+**What it does**: Personalised daily overview — streaks, progress, knowledge health, at-risk topics, study plan.
+**Why it matters**: One screen that tells you what to do today.
+**Differentiator**: Predicted score, topic accuracy breakdown, and knowledge state visualisation in one view.
 
-### [CATEGORY NAME - e.g., "Content Management"]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
+### Progress Tracking
+**What it does**: Track mastery across all topics over time. See improvement trajectories.
+**Why it matters**: Motivation through visible progress. Identify persistent weak spots.
 
-### [CATEGORY NAME - e.g., "Analytics & Insights"]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
+### Sparx (Virtual Currency)
+**What it does**: Earn credits through study activity. Spend on premium features (Ask Sparky, advanced analysis).
+**Why it matters**: Gamification that rewards consistent study behaviour.
 
-### [CATEGORY NAME - e.g., "Integrations"]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
+### Settings & Personalisation
+**What it does**: Set exam board, exam date, target grade, notification preferences, theme.
+**Why it matters**: Tailored experience from day one.
 
-## Integrations & Ecosystem
+## Key Differentiators (vs Competitors)
 
-<!-- INSTRUCTIONS: List tools, platforms, and services you integrate with. -->
+| ExamPilot | Save My Exams | Physics & Maths Tutor | Generic Apps |
+|---|---|---|---|
+| Predicted grade (ERI) | No prediction | No prediction | No prediction |
+| Adaptive questions | Static papers | Static resources | Random difficulty |
+| Socratic AI tutor | No AI | No AI | Answer-giving chatbots |
+| Spaced repetition (FSRS) | No retention system | No retention system | Basic flashcards |
+| Cambridge 9709 + Edexcel IAL specific | Broad coverage | Broad coverage | Generic maths |
+| Question DNA (reasoning patterns) | Topic labels only | Topic labels only | No classification |
 
-### Direct Integrations
-- **[Tool/Platform name]**: [What the integration does]
-- **[Tool/Platform name]**: [What the integration does]
-- **[Tool/Platform name]**: [What the integration does]
-- **[Tool/Platform name]**: [What the integration does]
-- **[Tool/Platform name]**: [What the integration does]
+## Technology Stack (for technical content)
 
-### Distribution Partners (if applicable)
-- [Partner 1]
-- [Partner 2]
-- [Partner 3]
-- [Partner 4]
-- [Partner 5]
+- Next.js 15 (App Router)
+- FastAPI backend with 22+ AI agents
+- Supabase (Auth + DB)
+- Sanity CMS (marketing content)
+- Claude 3.5 Haiku (Ask Sparky)
+- FSRS (spaced repetition algorithm)
+- Deployed on Vercel + Railway
 
-## Competitive Differentiators
+## Company Information
 
-<!-- INSTRUCTIONS: Define how you're different from competitors.
-     Group by competitor type or category. -->
-
-### vs. [COMPETITOR 1 or COMPETITOR TYPE]
-- **[Your advantage 1]** ([Explain what competitors lack])
-- **[Your advantage 2]** ([Explain what competitors lack])
-- **[Your advantage 3]** ([Explain what competitors lack])
-- **[Your advantage 4]** ([Explain what competitors lack])
-
-### vs. [COMPETITOR 2 or COMPETITOR TYPE]
-- **[Your advantage 1]** ([Explain what competitors lack])
-- **[Your advantage 2]** ([Explain what competitors lack])
-- **[Your advantage 3]** ([Explain what competitors lack])
-- **[Your advantage 4]** ([Explain what competitors lack])
-
-### vs. [COMPETITOR 3 or COMPETITOR TYPE]
-- **[Your advantage 1]** ([Explain what competitors lack])
-- **[Your advantage 2]** ([Explain what competitors lack])
-- **[Your advantage 3]** ([Explain what competitors lack])
-- **[Your advantage 4]** ([Explain what competitors lack])
-
-## Use Cases by Customer Segment
-
-<!-- INSTRUCTIONS: Describe your key customer segments and what they need. -->
-
-### [SEGMENT 1 NAME]
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
-
-### [SEGMENT 2 NAME]
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
-
-### [SEGMENT 3 NAME]
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
-
-### [SEGMENT 4 NAME] (Optional)
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
-
-### [SEGMENT 5 NAME] (Optional)
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
-
-## Pricing & Plan Benefits
-
-<!-- INSTRUCTIONS: Outline what's included in each pricing tier.
-     This helps AI understand value propositions for different customer segments. -->
-
-### [PLAN NAME 1] Benefits
-- [Benefit 1]
-- [Benefit 2]
-- [Benefit 3]
-- [Benefit 4]
-- [Benefit 5]
-
-### [PLAN NAME 2] Benefits
-- Everything in [Plan 1], plus:
-- [Additional benefit 1]
-- [Additional benefit 2]
-- [Additional benefit 3]
-- [Additional benefit 4]
-
-### [PLAN NAME 3] Benefits (Optional)
-- Everything in [Plan 2], plus:
-- [Additional benefit 1]
-- [Additional benefit 2]
-- [Additional benefit 3]
-- [Additional benefit 4]
-
-## Key Messaging for Conversions
-
-<!-- INSTRUCTIONS: Pre-write effective marketing messages for common conversion points. -->
-
-### Trial Conversion Messages
-- "[CTA message 1]"
-- "[CTA message 2]"
-- "[CTA message 3]"
-- "[CTA message 4]"
-
-### Pain Point Solutions
-<!-- Format: **"[Common objection or concern]"** → "[Your solution]" -->
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-
-### Social Proof Elements
-<!-- INSTRUCTIONS: Add specific numbers and achievements -->
-- "[Number] of [customers/users] [geographic scope]"
-- "[Impressive metric about usage or scale]"
-- "[Customer rating/review score]"
-- "[Press mentions or awards]"
-
-## Common Questions & Objections
-
-<!-- INSTRUCTIONS: List frequent customer questions and your best answers.
-     This helps AI address objections in content. -->
-
-### "[Common question 1]?"
-**Answer**: [Your clear, benefit-focused answer]
-
-### "[Common question 2]?"
-**Answer**: [Your clear, benefit-focused answer]
-
-### "[Common question 3]?"
-**Answer**: [Your clear, benefit-focused answer]
-
-### "[Common question 4]?"
-**Answer**: [Your clear, benefit-focused answer]
-
-### "[Common question 5]?"
-**Answer**: [Your clear, benefit-focused answer]
-
-## Content Creation Guidelines
-
-When writing about [YOUR COMPANY] features:
-
-1. **Lead with benefits, not features**: Don't just say "[feature name]"—explain "[the outcome it delivers]"
-2. **Use specific examples**: Show how features solve real problems
-3. **Include proof points**: Stats, testimonials, certifications
-4. **Address objections proactively**: Answer concerns before they ask
-5. **Create clear CTAs**: Make next steps obvious (start trial, see pricing, contact sales)
-6. **Emphasize uniqueness**: Highlight what makes [YOUR COMPANY] different from competitors
-7. **Match audience to use case**: Tailor messaging to segment ([segment 1] vs. [segment 2] vs. [segment 3])
-
----
-
-*Note: Update this document as new features launch or positioning changes. Keep messaging aligned with current marketing campaigns and homepage copy.*
+- **Founded**: 2025
+- **Founders**: Enitan Williams, Teresa
+- **Based**: Spain (serving globally)
+- **Mission**: Help every A-Level Maths student know exactly where they stand and what to do next
+- **Stage**: Pre-launch, onboarding first 100 users
