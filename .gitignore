@@ -51,7 +51,7 @@ topics/*
 !topics/.gitkeep
 !topics/example-topic-idea.md
 
-research/*
+#research/*
 !research/.gitkeep
 
 drafts/*
