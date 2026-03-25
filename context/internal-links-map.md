@@ -20,6 +20,12 @@
 | Study Tips | /blog/category/study-tips | General revision advice |
 | Exam Strategy | /blog/category/exam-strategy | Exam technique, time management |
 
+## Published SEO Content
+
+| Page | URL | Link When Discussing |
+|---|---|---|
+| Cambridge 9709 Pure 1 Integration | /cambridge/9709/pure-1/integration | Integration, reverse differentiation, area under curve, definite integrals, 9709 Pure 1 topics |
+
 ## Future SEO Hub Pages (link when created)
 
 | Hub | Planned URL | Purpose |

@@ -116,7 +116,7 @@ Build a spreadsheet focused on your launch scope:
 
 **Cambridge 9709 cluster:**
 - **Paper codes:** 9709/12, 9709/13 (Pure 1), 9709/32, 9709/33 (Pure 3)
-- **Topics (Pure 1):** Functions, Quadratics, Coordinate Geometry, Circular Measure, Trigonometry, Vectors, Differentiation, Integration
+- **Topics (Pure 1):** Functions, Quadratics, Coordinate Geometry, Circular Measure, Trigonometry, Series, Differentiation, Integration (Note: Vectors is Pure 3, not Pure 1)
 - **Topics (Pure 3):** Algebra, Logarithms, Trigonometry, Differentiation, Integration, Numerical Methods, Vectors, Differential Equations, Complex Numbers
 - **Modifiers:** past papers, worked solutions, topic questions, revision notes, exam tips, mark scheme, 9709 P1 2023, 9709/12 past papers
 
@@ -172,7 +172,6 @@ PILLAR: "Cambridge 9709 Pure Mathematics 1: Complete Revision Guide" (4,000+ wor
 ├── SPOKE: "9709 P1 Integration: Exam Tips & Worked Solutions"
 ├── SPOKE: "Cambridge 9709 Functions & Graphs: Everything You Need to Know"
 ├── SPOKE: "9709 Pure 1 Trigonometry: Common Mistakes & How to Avoid Them"
-├── SPOKE: "Cambridge 9709 Vectors: Complete Revision Notes"
 ├── SPOKE: "9709 P1 Coordinate Geometry: Past Paper Questions by Topic"
 ├── SPOKE: "How to Pass Cambridge 9709 Pure Mathematics 1"
 └── SPOKE: "9709 Past Papers: Complete Paper Code Guide (9709/12, 9709/13)"

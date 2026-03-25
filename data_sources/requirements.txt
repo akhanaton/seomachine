@@ -42,3 +42,7 @@ lxml>=4.9.0
 
 # Markdown processing (for WordPress publisher)
 markdown>=3.5.0
+
+# Diagram generation
+matplotlib>=3.8.0
+scipy>=1.11.0

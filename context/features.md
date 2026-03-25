@@ -90,7 +90,11 @@ Future expansion: GCSE Maths, Additional Maths, Statistics, Mechanics, other A-L
 ## Company Information
 
 - **Founded**: 2025
-- **Founders**: Enitan Williams, Teresa
+- **Founders**: Enitan Williams, Teresa Gonzalez
 - **Based**: Spain (serving globally)
 - **Mission**: Help every A-Level Maths student know exactly where they stand and what to do next
-- **Stage**: Pre-launch, onboarding first 100 users
+- **Stage**: Pre-launch, preparing for mvp mid-august
+
+
+
+See also: `context/exam_pilot_product_summary.md` for more details
