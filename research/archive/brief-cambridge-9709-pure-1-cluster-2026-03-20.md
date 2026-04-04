@@ -396,9 +396,61 @@ Every page must include:
 
 ---
 
+## 9. Keyword Cannibalization Prevention
+
+### Broad vs paper-qualified keywords
+
+Several topic spoke keywords ("a level maths integration", "a level maths differentiation", "a level maths trigonometry") will conflict when Pure 3 spokes are created, because Pure 3 covers advanced versions of the same topics.
+
+**Rule:** Each spoke must use the paper-qualified keyword as its primary target. The broad keyword is secondary only.
+
+| Paper | Primary KW (use in H1, URL) | Secondary KW (use in body) |
+|-------|---------------------------|--------------------------|
+| Pure 1 integration | "9709 pure 1 integration" | "a level maths integration" |
+| Pure 3 integration | "9709 pure 3 integration by parts" | "a level maths integration" |
+| Pure 1 trigonometry | "9709 pure 1 trigonometry" | "a level maths trigonometry" |
+| Pure 3 trigonometry | "9709 pure 3 compound angle formulae" | "a level maths trigonometry" |
+
+Google disambiguates based on content depth, internal linking (hub-and-spoke architecture), and URL structure. Paper-qualified primaries ensure each page has a distinct ranking target.
+
+### Strategy spokes: qualification level, not paper level
+
+Strategy content targets the whole 9709 qualification, not a specific paper. These spokes live at `/cambridge/9709/[strategy]/`, NOT under any paper hub.
+
+**Content structure for each strategy spoke:**
+- H1 targets the broad keyword ("9709 common mistakes")
+- H2 per paper: "Pure 1 Common Mistakes", "Pure 3 Common Mistakes", etc.
+- Each paper hub deep-links to its H2 section via anchor (`/cambridge/9709/common-mistakes/#pure-1`)
+- When a new paper cluster is built, add an H2 section -- do NOT create a separate page
+
+**Paper-specific strategy content** (e.g. the 8-week Pure 1 revision plan) lives as a section within the paper pillar page, not as a standalone spoke.
+
+### URL hierarchy (current and future)
+
+```
+/cambridge/9709/                    ← qualification hub
+├── pure-1/                         ← paper hub (pillar)
+│   ├── integration/                ← topic spoke
+│   ├── differentiation/            ← topic spoke
+│   ├── functions/                  ← topic spoke
+│   ├── trigonometry/               ← topic spoke
+│   ├── coordinate-geometry/        ← future topic spoke
+│   ├── quadratics/                 ← future topic spoke
+│   └── series/                     ← future topic spoke
+├── pure-3/                         ← future paper hub
+│   ├── vectors/                    ← future topic spoke
+│   └── ...
+├── common-mistakes/                ← strategy spoke (H2 per paper)
+├── past-papers/                    ← strategy spoke (H2 per paper)
+├── how-to-pass/                    ← strategy spoke (H2 per paper)
+└── best-resources/                 ← strategy spoke (H2 per paper)
+```
+
+---
+
 ## Next Steps
 
 1. Run `/write` for highest-priority spoke articles
 2. Build programmatic past papers section (/cambridge/9709/past-papers/[year]/)
-3. Create the pillar page after 4+ spokes are published
+3. Create the pillar page after 4+ spokes are published ✅ DONE (2026-04-03)
 4. Repeat this research for Edexcel IAL Pure 1 cluster
